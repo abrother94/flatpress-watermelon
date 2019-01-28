@@ -348,16 +348,12 @@ function do_bbcode_video($action, $attr, $content, $params, $node_object) {
 	$the_url = null;
 	$others = '';
 	switch ($type) {
-		case 'google':
-			$the_url = "http://video.google.com/googleplayer.swf?docid={$query['docid']}";
-			$others = '<param name="FlashVars" value="playerMode=embedded" />';
-			break;
 		case 'youtube':
-			$the_url = "http://youtube.com/v/{$query['v']}";
+			$the_url = "https://www.youtube.com/embed/{$query['v']}";
 			break;
 		case 'default':
 		default:
-			$the_url = null;
+			$the_url = $attr['default'];
 	}
 	if ($the_url) {
 		$width = isset($attr['width'])
