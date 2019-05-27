@@ -1,0 +1,6 @@
+VERSION|fp-1.1 RC1|SUBJECT|Menu|CONTENT|[list]
+[*][url=?]家[/url]
+[*][url=?paged=1]部落格[/url]
+[*][url=static.php?page=about]關於[/url]
+[*][url=contact.php]聯絡我![/url]
+[/list]|AUTHOR|watermelon|DATE|1548250865|

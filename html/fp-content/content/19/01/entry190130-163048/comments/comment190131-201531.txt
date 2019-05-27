@@ -1,0 +1,3 @@
+LOGGEDIN|1|VERSION|fp-1.1 RC1|NAME|watermelon|EMAIL|300241@st.tc.edu.tw|URL|http://192.168.1.123:8888/|CONTENT|塗色中
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+期待Lo~~~~|IP-ADDRESS|192.168.1.224|DATE|1548965731|
