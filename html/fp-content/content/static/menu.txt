@@ -1,4 +1,4 @@
-VERSION|fp-1.1 RC1|SUBJECT|Menu|CONTENT|[list]
+VERSION|fp-1.1 RC1|SUBJECT|Menu類別|CONTENT|[list]
 [*][url=?]家[/url]
 [*][url=?paged=1]部落格[/url]
 [*][url=static.php?page=about]關於[/url]
